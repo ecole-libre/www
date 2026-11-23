@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6.5 -5.5 152 152">
+  <style>.mid{fill:#073B63}@media (prefers-color-scheme:dark){.mid{fill:#BFE3F5}}</style>
+  <defs>
+    <linearGradient id="g-green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94D39A"/><stop offset="1" stop-color="#14A99B"/></linearGradient>
+    <linearGradient id="g-blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1597D4"/><stop offset="1" stop-color="#0065A8"/></linearGradient>
+    <linearGradient id="g-teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55C9A2"/><stop offset="1" stop-color="#007E9C"/></linearGradient>
+    <linearGradient id="g-gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFC13D"/><stop offset="1" stop-color="#F6A31B"/></linearGradient>
+  </defs>
+  <path d="M58 103 C25 91 13 65 9 40 C39 42 66 56 82 79 C75 89 68 97 58 103Z" fill="url(#g-green)"/>
+  <path d="M75 84 C52 61 45 33 47 9 C79 14 103 34 112 65 C103 72 91 78 75 84Z" fill="url(#g-blue)"/>
+  <path class="mid" d="M61 91 C80 76 99 66 123 63 C113 78 104 88 93 97 C82 102 71 100 61 91Z" opacity=".94"/>
+  <path d="M61 118 C83 106 98 87 112 68 C122 55 137 49 151 52 C139 64 132 75 125 89 C115 108 96 124 68 137 C61 133 59 126 61 118Z" fill="url(#g-teal)"/>
+  <path d="M110 48 C116 24 132 9 156 4 C153 27 137 43 110 48Z" fill="url(#g-gold)"/>
+</svg>
